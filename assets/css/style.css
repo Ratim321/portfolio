@@ -28,9 +28,9 @@ h1,h2,h3,h4,h5,h6 {
 .skill-bars{
     padding: 35px 30px;
     align-self: center;
-    width: 900px;
+    width: 100%;
     /* color: var(--color-body); */
-
+     
     height: 500px;
     
     box-shadow: 5px 5px 20px rgba(0,0,0,0.2);
@@ -173,7 +173,7 @@ button{
     width: 180px;
     height: 60px;
     border: 035;
-    margin-left: 90px;
+    margin-left: 100px;
     outline: none;
     background: #14e2e9;
     color: rgba(0, 0, 0, 0.333);
